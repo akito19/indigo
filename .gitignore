@@ -1,4 +1,4 @@
-vendor/bundle
-*.swp
-*.DS_Store
-tmp/*
+.DS_Store
+_site
+.sass-cache
+Gemfile.lock
